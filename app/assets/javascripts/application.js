@@ -10,7 +10,7 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery
+//= require jquery/dist/jquery
 //= require turbolinks
 //= require popper.js/dist/umd/popper
 //= require bootstrap/dist/js/bootstrap
